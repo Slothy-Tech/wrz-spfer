@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Warzone Spoofer: Works for COD, WZ, MW3, BO6</h1>
+<h1 align="center">Call of Duty Spoofer: Works for COD, WZ3, MW3, BO6</h1>
 <p align="center">Helping you drop back into the Warzone — fast, safe, and undetected.</p>
 
 <p align="center">
